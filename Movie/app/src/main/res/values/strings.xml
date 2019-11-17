@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="title_home">Home</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_hot_movie">Hot Movie</string>\
+    <string name="title_user">User</string>
+    <string name="title_load">Loading</string>
+    <string name="next_video">Next Video</string>
+    <string name="auto_play">Auto Play</string>
+    <string name="home_hot_movie">Hot Movie</string>
+    <string name="home_new_movie">New Movie</string>
+    <string name="button_Hitstory">Refresh</string>
+</resources>
